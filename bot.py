@@ -12,7 +12,7 @@ from aiogram.types import Message
 from aiogram.methods import send_message
 
 # Bot token can be obtained via https://t.me/BotFather
-TOKEN = "7021906379:AAE9fOYDws74TR_PHXhI2CoSiGEazC0vDIQ"
+TOKEN = ""
 
 # All handlers should be attached to the Router (or Dispatcher)
 
